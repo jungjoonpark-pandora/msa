@@ -4,14 +4,7 @@
 
 
 
-The (Short) History of DevOps
-
-
-
-
-
-
-
+* [The (Short) History of DevOps] (https://www.youtube.com/watch?v=o7-IuYS0iS
 
 
 2000년대 중반, IT 운영자와 개발자 사이에서 수많은 논쟁이 있었고 이 두 그룹의 관계는 평탄치 않았음.
