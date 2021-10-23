@@ -80,7 +80,7 @@ Lowering risk of change through tools and culture(변화의 위험을 도구와 
 
 ​
 
-[변화에 대응하기 위한 도구]​
+####[변화에 대응하기 위한 도구]​
 
 • Automated infrastructure (인프라 자동화)
 
@@ -98,7 +98,7 @@ Lowering risk of change through tools and culture(변화의 위험을 도구와 
 
 ​
 
-[변화에 대응하기 위한 문화]
+####[변화에 대응하기 위한 문화]
 
 • Respect (존중)
 
@@ -112,4 +112,4 @@ Lowering risk of change through tools and culture(변화의 위험을 도구와 
 
 ​
 
-Dev vs Ops → Supporting Business ("10+ Deploys per Day" 불가능) → DevOps
+##Dev vs Ops → Supporting Business ("10+ Deploys per Day" 불가능) → DevOps
